@@ -8,3 +8,7 @@
 - EFC1
     - Questão 1 - Síntese de modelos lineares para classificação de padrões (Regressor Linear Regularizado).
     - Questão 2 - Síntese de modelos não-lineares para classificação de padrões, mas lineares nos parâmetros ajustáveis (Máquina de Aprendizado Extremo - ELM).
+
+- EFC2
+    - Questão 3 - Síntese de um classificador de padrões com Redes Neurais MLP.
+    - Questão 4 - Síntese de um classificador de padrões com Redes Convolucionais.
