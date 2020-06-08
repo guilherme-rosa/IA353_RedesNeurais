@@ -12,3 +12,8 @@
 - EFC2
     - Questão 3 - Síntese de um classificador de padrões com Redes Neurais MLP.
     - Questão 4 - Síntese de um classificador de padrões com Redes Convolucionais.
+
+- EFC3
+    - Questão 5 - Síntese e análise de autoencoders.
+    - Questão 6 - Estudo de séries temporais e síntese de preditores linear e não-linear.
+    - Questão 7 - Interpretabilidade de redes neurais treinadas.
