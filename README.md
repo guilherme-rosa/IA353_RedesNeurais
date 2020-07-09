@@ -17,3 +17,8 @@
     - Questão 5 - Síntese e análise de autoencoders.
     - Questão 6 - Estudo de séries temporais e síntese de preditores linear e não-linear.
     - Questão 7 - Interpretabilidade de redes neurais treinadas.
+
+- EFC4
+    - Questão 8 - Aprendizado por reforço do tipo Deep Q-Learning para definir percursos em labirintos.
+    - Questão 9 - Síntese de redes GANs (Generative Adversarial Networks).
+    - Questão 10 - Processamento de linguagem natural - word embedding usando a implementação GENSIM do Word2Vec.
